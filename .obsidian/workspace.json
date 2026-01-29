@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "4766f9c168588753",
+    "type": "split",
+    "children": [
+      {
+        "id": "47056e9032886b87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c368244ac92d8443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipe de Limpeza/União/Teckmarconiano.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teckmarconiano"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ca575d06530b1fac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bfda5f2b20fa090",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf2d217da037f3c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb31b7c1e4bfd226",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6929b5cb2dbb6e1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e7dcd45189aa0302",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a073b590ef80f657",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bf743d1d97163ee3",
+    "type": "split",
+    "children": [
+      {
+        "id": "324c312914785698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "779712e2f8127c75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Equipe de Limpeza/União/Teckmarconiano.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Teckmarconiano"
+            }
+          },
+          {
+            "id": "bacddf5213b163e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Equipe de Limpeza/União/Teckmarconiano.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Teckmarconiano"
+            }
+          },
+          {
+            "id": "807c35126324742e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d0f01f98461a3a66",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fd0a0a640529efdd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Equipe de Limpeza/União/Teckmarconiano.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Teckmarconiano"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6929b5cb2dbb6e1b",
+  "lastOpenFiles": [
+    "Imagens/Pasted image 20260125200130.png",
+    "Equipe de Limpeza/União/Teckmarconiano.md",
+    "Equipe de Limpeza/União",
+    "Escarlate Eterna/Os seis de Havenridge/William Thawne.md",
+    "Imagens/Pasted image 20260125203420.png",
+    "Escarlate Eterna/Os seis de Havenridge/Nelly Felper.md",
+    "Imagens/Pasted image 20260125203408.png",
+    "Escarlate Eterna/Os seis de Havenridge/Angelie Grün.md",
+    "Imagens/Pasted image 20260125203353.png",
+    "Escarlate Eterna/Os seis de Havenridge/Romina Miller.md",
+    "Imagens/Pasted image 20260125203338.png",
+    "Escarlate Eterna/Os seis de Havenridge/Daniel Harvest.md",
+    "Imagens/Pasted image 20260125203322.png",
+    "Escarlate Eterna/Influentes/Wallace Haines.md",
+    "Escarlate Eterna/Os seis de Havenridge",
+    "Escarlate Eterna/Influentes/Untitled.md",
+    "Imagens/Pasted image 20260125203252.png",
+    "Escarlate Eterna/Influentes/Margaret  Haines.md",
+    "Imagens/Pasted image 20260125203242.png",
+    "Escarlate Eterna/Influentes/Ronan (Roninho) Callahan.md",
+    "Imagens/Pasted image 20260125203231.png",
+    "Escarlate Eterna/Influentes/Aline Matarazzo.md",
+    "Imagens/Pasted image 20260125203214.png",
+    "Escarlate Eterna/Influentes/Matheus Matarazzo.md",
+    "Imagens/Pasted image 20260125203202.png",
+    "Escarlate Eterna/Influentes/Elliot Kane.md",
+    "Escarlate Eterna/Influentes/Prefeito Adrian D'Artois Voss.md",
+    "Escarlate Eterna/ESTRANHOS E DOIDOS/Irina Volkova.md",
+    "Escarlate Eterna/Influentes",
+    "Escarlate Eterna/ESTRANHOS E DOIDOS/Untitled.md",
+    "Escarlate Eterna/ESTRANHOS E DOIDOS/Elias (Velho) Marlowe.md",
+    "Escarlate Eterna/ESTRANHOS E DOIDOS/Henry Ward.md",
+    "Escarlate Eterna/ESTRANHOS E DOIDOS/Sarah Miller.md",
+    "Escarlate Eterna/ESTRANHOS E DOIDOS/Matthew Harvest.md",
+    "Escarlate Eterna/Karpenters Corpse/Galadriel (Gal) Mavaros.md",
+    "Escarlate Eterna/ESTRANHOS E DOIDOS",
+    "Escarlate Eterna/Karpenters Corpse/Untitled.md",
+    "Escarlate Eterna/Karpenters Corpse/Rachel Thorne.md",
+    "Escarlate Eterna/Karpenters Corpse/Camila Valles Scott.md",
+    "Escarlate Eterna/Karpenters Corpse/Bruno Loureiro Touro.md",
+    "Escarlate Eterna/Karpenters Corpse/Untitled",
+    "Escarlate Eterna/Karpenters Corpse",
+    "Escarlate Eterna/Campo",
+    "Escarlate Eterna/Alunos",
+    "Escarlate Eterna/Corpo Docente",
+    "Escarlate Eterna/Apoio Social e Comunidade/RIDGEVIEW HIGH"
+  ]
+}

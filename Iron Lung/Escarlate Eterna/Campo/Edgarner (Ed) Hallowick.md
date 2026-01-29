@@ -1,0 +1,11 @@
+- Dono da Fazenda **Terra** Vant-Grow
+- 85 anos
+- Veterano do combate de independência do Oregon e dono da segunda maior fazenda tecnorgânica de Havenridge e, Segundo ele mesmo, a única que ainda presta.
+- O velho Hallowick toca seu pedaço de terra com mão firme e braço de aço… _literalmente_.
+- Cuida de uma variedade de corniaxis, uma espécie de milho modificado que brilha à noite, e de um rebanho de bovinus thermic, vacas resistentes ao frio.Também planta soja prismática, resistente a solo ácido e ótima pra biodiesel de terceira geração.
+- Conhecido e respeitado na cidade.
+- Ed é o típico **“não pisem no meu gramado”** em forma de gente. Vive resmungando da cidade, dos jovens, da tecnologia nova demais e do “maldito governo da União que nunca fez nada direito”...apesar de ter um braço fabricados por eles...
+- Vive brigando com o Neto **Jasper**
+- Pai de **Elaine Hallowick**
+- Edgar é parte do passado que se recusa a ir embora e talvez, no fundo, seja exatamente disso que Havenridge ainda precisa...ou não _hahahahaha_
+![[Pasted image 20260125202522.png]]

@@ -1,0 +1,5 @@
+- Idade no desaparecimento: 17 anos
+- William sempre foi conhecido na escola como aquele garoto que arruma confusão, mas tem um bom coração. Popular entre os seus, ele vivia com um grupo de amigos muito próximos apesar de vez ou outra se meter em brigas. Alguns lembram dele por seu estilo marcante: cabelos escuros, tatuagem de cruz no pescoço e brincos prateados.
+- Apesar de seu histórico de travessuras, William nunca ficava fora de casa após o entardecer algo que sempre chamou atenção da família. Por isso, ao perceberem sua ausência, os pais acionaram a polícia imediatamente. O desaparecimento repentino de um garoto tão conhecido causou choque na comunidade. Alguns jovens da escola ainda deixam cartazes com seu rosto ou fazem pichações com o nome dele próximo ao ginásio onde ele curtia ficar com os amigos.
+- Até hoje, nenhum sinal concreto do paradeiro de William foi encontrado. A cidade inteira sente falta do garoto sorridente que sempre parecia pronto para a próxima aventura.
+![[Pasted image 20260125203420.png]]

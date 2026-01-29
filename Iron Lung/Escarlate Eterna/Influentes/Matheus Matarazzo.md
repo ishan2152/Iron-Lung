@@ -1,0 +1,6 @@
+- Magnata e proprietário de uma **corporação interplanetária de extração e refino de Helion-3**, um dos combustíveis mais valiosos do século XXII. Após se casar, mandou construir uma imponente mansão em _Havenridge_ para que seu filho crescesse longe das tensões e perigos das grandes **colônias urbanas**.
+- Pouco se sabe sobre ele, já que permanece na cidade apenas três dias por mês, sempre para visitar o filho, antes de retornar aos negócios que se estendem por diferentes sistemas estelares.
+- Sua presença impõe respeito: alto, sempre impecavelmente vestido, olhar sério e postura rígida.
+- Quando viaja com a esposa para as metrópoles orbitais, deixando o filho aos cuidados das empregadas da mansão, ela costuma postar fotos do casal sorridente em eventos de gala e ambientes luxuosos.
+- Para quem vê de fora, parecem o retrato de um casamento perfeito... mesmo que pareça que essa imagem seja tão cuidadosamente fabricada quanto as campanhas publicitárias de sua empresa.
+![[Pasted image 20260125203202.png]]

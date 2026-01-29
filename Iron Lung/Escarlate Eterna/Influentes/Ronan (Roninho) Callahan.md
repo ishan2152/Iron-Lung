@@ -1,0 +1,6 @@
+- _A voz que ecoa pelas manhãs e noites de Havenridge_, **Rony** é o tipo de radialista que transforma até a notícia de um _desaparecimento de 6 crianças_ num comentário espirituoso sobre como **“pelo menos o trânsito vai melhorar”.**
+- Seu humor ácido e jeito debochado dividem opiniões: para alguns, é um gênio que sabe rir das próprias tragédias; para outros, um insensível que não sabe quando parar.
+- Vive soltando teorias estranhas no ar metade improviso, metade suspeitosamente bem-pensadas e, segundo os mais fofoqueiros, não se dá ao trabalho de separar o que é notícia de **verdade do que é pura invenção.**
+- Para conversar com ele pessoalmente, é preciso paciência e talvez um pouco de coragem: o homem fala rápido, muda de assunto sem aviso e às vezes responde a perguntas que ninguém fez.
+- É praticamente o oposto da esposa, **Lorreta**, uma acadêmica meticulosa que passa dias inteiros examinando artefatos para o Museu Nacional do Oregon. Como eles se apaixonaram? Ninguém sabe. Talvez porque, de algum jeito, o caos dele equilibre a calma dela...ou eles se dão muito bem na cama
+![[Pasted image 20260125203231.png]]

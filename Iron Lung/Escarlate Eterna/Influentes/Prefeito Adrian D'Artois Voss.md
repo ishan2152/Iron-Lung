@@ -1,0 +1,11 @@
+- 1,88 m, 47 anos
+- Adrian Voss é o tipo de homem que parece ter nascido para comandar.
+- Sempre impecavelmente vestido, com postura ereta e um sorriso controlado, ele governa **Havenridge há três mandatos consecutivos.** Carismático nas praças, calculista nas reuniões, é conhecido por ouvir muito… e falar apenas o necessário.
+- Seus opositores o acusam de ser frio e distante; seus aliados, de ser firme e visionário.
+- O próprio Voss nunca confirma nem nega nada prefere que suas ações e resultados falem por ele. - Apesar da aparência serena, há uma intensidade no olhar que denuncia que está sempre medindo palavras e pessoas.
+- Costuma circular pela cidade a pé, cumprimentando cidadãos pelo nome, lembrando pequenos detalhes de conversas passadas. Essa memória quase fotográfica é uma das razões pelas quais tantos o respeitam… e outros o temem.
+- Dizem que, por trás do ar cortês, ele é um estrategista nato, capaz de tomar decisões difíceis sem hesitar. Seja para o bem ou para o mal, Havenridge é, sem dúvida, moldada por suas mãos.
+- Durante os acontecimentos do Caso 047 foi o responsável por pedir ajuda aos **NEUA** alguns viram isso como fraqueza outros viram como uma atitude extremamente sensata
+- Depois da Morte de seu Filho Jack ele tem investido muito mais na segurança da cidade
+- Casada com **Phyllis Voss**
+![[Pasted image 20260125203137.png]]

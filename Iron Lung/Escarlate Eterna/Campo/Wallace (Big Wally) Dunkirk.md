@@ -1,0 +1,11 @@
+- 26 anos, 2,18 m
+- Se você ouvir um motor trovejando e o chão tremendo na **Terra Vant-Grow**, pode apostar que é o Wallace — ou, como todo mundo conhece, **Big Wally** passando com alguma máquina do tamanho de um carro
+- Funcionário fixo da fazenda da família Hallowick, Wally mora no alojamento dos trabalhadores e praticamente vive entre graxa, engrenagens e motores.
+- Ele não fala muito, mas quando fala, sua voz grave ecoa igual a de um trator velho ligando no frio.
+- Especialista em operar e fazer manutenção nas máquinas mais robustas e temperamentais da fazenda como o:
+- **O Triturador T-9**: um colosso responsável por processar vegetais tecnorgânicos e separar biomassa.
+- **A Colhedora “Guilhermina”**: que só funciona se alguém com MUITA força girar a ignição de impacto (chute especial do Wally).
+- **A Charrua Inteligente XDR-24**: que insiste em dar curto-circuito se não for manuseada com delicadeza e um tapa estratégico no painel.
+- **Os Reboques de Carga Híbrida**: uma maravilha da engenharia Nomai mas que às vezes atolam e precisam ser erguidos — o que Wally já fez com as próprias mãos mais de uma vez.
+- Wally também cuida das cercas de contenção dos bovinos de casco metálico, sobe nos silos pra trocar sensores solares e tem uma relação "respeitosa" com o **John Milho-Homem**, que o considera "um tratorzinho de carne e osso".
+![[Pasted image 20260125202625.png]]

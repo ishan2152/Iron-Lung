@@ -1,0 +1,6 @@
+- Ex-modelo de moda orbital e influenciadora de renome nas _megacidades_, Aline trocou o brilho das passarelas interplanetárias pela calmaria de **Havenridge**, alegando querer criar o filho longe da pressão da fama.
+- Apesar do discurso, suas redes continuam ativas e impecavelmente curadas: fotos da rotina “simples” na mansão, vídeos de receitas com ingredientes importados de outras colônias e transmissões ao vivo respondendo perguntas de seguidores fiéis muitos dos quais ainda a tratam como um _ícone de estilo_.
+- É constantemente cercada por um pequeno séquito de **mães locais** que tentam imitar seus hábitos, desde a maquiagem impecável até as aulas de pilates transmitidas por holograma.
+- Sempre sorridente, com postura impecável e aparência cuidadosamente mantida, Aline parece feita para as câmeras mesmo nas manhãs _“despretensiosas”_ no mercado da cidade.
+- Boatos dizem que ela compensa a ausência constante do marido com mimos extravagantes para o filho, tornando-o o garoto mais invejado **(e talvez o mais mimado) de Havenridge.**
+![[Pasted image 20260125203214.png]]

@@ -1,0 +1,5 @@
+- 18 anos na época do desaparecimento
+- Romina sempre parecia um passo à frente de todo mundo. Coordenadora do jornal da escola, notas impecáveis, futuro garantido ela era aquela garota que todos observavam, mas ninguém realmente conhecia. Sabia dos segredos de **Havenridge** mais do que qualquer adulto jamais desconfiou. Segredos que ela guardava… e segredos que ela revelava apenas quando julgava necessário. No entanto, os dela sempre permaneceram intocados.
+- Desde o seu desaparecimento, sua família nunca pôde ser a mesma. Seu pai, **professor de História** da escola, continua tentando ensinar como se tudo estivesse bem como se sua filha pudesse aparecer a qualquer momento na porta da sala. Sua mãe… tornou-se um fantasma de si mesma. Quase não sai de casa. Quando aparece em público, parece procurar algo ou alguém que sabe que não vai voltar.
+- Na última edição do jornal antes de sumir, havia um espaço em branco na última página. _Alguns dizem que ali deveria estar o seu próprio segredo. Um que Havenridge jamais conhecerá e ficará somente para os vermes._
+![[Pasted image 20260125203338.png]]
